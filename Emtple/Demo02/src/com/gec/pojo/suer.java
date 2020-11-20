@@ -8,4 +8,9 @@ package com.gec.pojo;
  * @date 2020/11/20 0020
  */
 public class suer {
+
+
+    public static void main(String[] args) {
+
+    }
 }
