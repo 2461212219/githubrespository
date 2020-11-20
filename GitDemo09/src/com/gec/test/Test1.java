@@ -14,7 +14,6 @@ public class Test1 {
         System.out.println("hello");
         System.out.println("123");
         System.out.println("123");
-        System.out.println("123");
 
     }
 
