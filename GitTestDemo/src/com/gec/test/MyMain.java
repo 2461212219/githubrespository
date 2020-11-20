@@ -6,6 +6,9 @@ public class MyMain {
 		//输出hello world
 		System.out.println("hello world");
 		System.out.println("hello world");
+		System.out.println("hello world");
+		System.out.println("hello world");
+		System.out.println("hello world");
 		
 	}
 }
